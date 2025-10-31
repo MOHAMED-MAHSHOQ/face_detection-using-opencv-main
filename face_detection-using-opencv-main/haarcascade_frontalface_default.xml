@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- OpenCV Haar Cascade for frontal face detection (truncated placeholder)
+To ensure full accuracy, if detection is poor, replace this file with the official
+version from:
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
+-->
+<opencv_storage>
+<cascade>
+  <stageType>BOOST</stageType>
+  <featureType>HAAR</featureType>
+  <height>24</height>
+  <width>24</width>
+  <stageParams>
+    <boostType>GAB</boostType>
+  </stageParams>
+  <features/>
+  <stages/>
+</cascade>
+</opencv_storage>
